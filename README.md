@@ -1,3 +1,9 @@
+## I have finished reading this page and am attempting to do the optional next steps.
+
+1. It seems I first need a branch in order to open a pull request. That's what I'm going for here.
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/rZJDtlWE)
 # :wave: The Basics of GitHub 
 
